@@ -1,3 +1,3 @@
 
 
-Output link : https://sandhyaranihb.github.io/Snake_Game/
+Output link : https://sandhyachimmalgi.github.io/Snake_Game/
